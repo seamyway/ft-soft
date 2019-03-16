@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["J/6E"],{"J/6E":function(e,s,t){"use strict";t.r(s);var l=t("KHd+"),n=Object(l.a)({},function(){var e=this.$createElement;return(this._self._c||e)("div",{staticClass:"salorder"},[this._v("salorder")])},[],!1,null,null,null);n.options.__file="salorder.vue";s.default=n.exports}}]);
