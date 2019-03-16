@@ -1,0 +1,36 @@
+.ft-rtable {
+
+  .ft-rtable-header {
+    height: 60px;
+
+    .ft-rtable-title {
+      line-height: 60px;
+      font-size: 30px;
+      font-weight: bold;
+    }
+
+    .ft-rtable-tools {
+      text-align: right;
+      line-height: 60px;
+    }
+  }
+}
+
+.ft-gtable {
+  .ft-gtable-header-row {
+    th {
+      background-color: #f5f7fa
+    }
+  }
+}
+
+.ft-panel {
+  .ft-card {
+
+    .ft-card-title {
+      height: 40px;
+      line-height: 40px;
+      font-weight: bold;
+    }
+  }
+}
